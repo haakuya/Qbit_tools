@@ -30,5 +30,23 @@ qb迁移跳检
 
 # usage of ut2gt.exe
 原帖https://bbs.itzmx.com/forum.php?mod=viewthread&tid=86731
+	由于utorrent是个垃圾软件，各种内存溢出崩溃，恶意弹窗广告推送，但是由于历史遗留问题，还有上千个种子任务存在utorrent中，这里快速把他进行迁移
+
+	qBittorrent 是开源软件，简洁易用无广告，而且跨平台 Linux, Mac OS X, Windows都能用。
+	选项-高级中可以关闭更新检测，不会像 UT 强制更新，而且网络性能强劲，可以自主设置缓冲区大小。
+
+	qBittorrent 论坛有人写了个小工具，可以简单快速的将种子从 uTorrent 迁移到 qBittorrent 。
+	首先当然是暂停 uTorrent 中的所有种子，确认全停了之后，然后退出uTorrent，qB 也要关闭。
+
+	下载ut2gt.exe（地址在下面），然后打开CMD，先将程序拖到命令行窗口。
+	会自动填写路径 例：  C:\Users\你的用户名\Desktop\ut2gt.exe
+	然后一个空格，将 uTorrent 的 resume.dat 拖入窗口。
+	再接一个空格，将 qBittorrent 的 BT_backup 文件夹拖入窗口。
+	绿色版路径 C:\qBittorrent Stable (build 4.1.0.0)\qBittorrent\profile\qBittorrent\data\BT_backup
+
+	例：C:\Users\你的用户名\Desktop\ut2gt.exe  D:\uTorrent\resume.dat  C:\qBittorrent Stable (build 4.1.0.0)\qBittorrent\profile\qBittorrent\data\BT_backup
+	然后按下回车等就OK了，会自动备份一次 resume.dat ，不信任的也可以手动备份。
+	
+原帖地址  (Migrate from uTorrent to qBittorrent easily)[https://qbforums.shiki.hu/index.php/topic,3224.0.html		
 
 ```C:\Users\你的用户名\Desktop\ut2gt.exe  D:\uTorrent\resume.dat  C:\qBittorrent Stable (build 4.1.0.0)\qBittorrent\profile\qBittorrent\data\BT_backup```

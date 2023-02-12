@@ -29,4 +29,5 @@ qb迁移跳检
 更新后是处于暂停状态，确认无误后开始并更改分类为其他选项。
 
 # usage of ut2gt.exe
+原帖https://bbs.itzmx.com/forum.php?mod=viewthread&tid=86731
 C:\Users\你的用户名\Desktop\ut2gt.exe  D:\uTorrent\resume.dat  C:\qBittorrent Stable (build 4.1.0.0)\qBittorrent\profile\qBittorrent\data\BT_backup

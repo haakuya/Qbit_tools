@@ -30,4 +30,5 @@ qb迁移跳检
 
 # usage of ut2gt.exe
 原帖https://bbs.itzmx.com/forum.php?mod=viewthread&tid=86731
+
 C:\Users\你的用户名\Desktop\ut2gt.exe  D:\uTorrent\resume.dat  C:\qBittorrent Stable (build 4.1.0.0)\qBittorrent\profile\qBittorrent\data\BT_backup

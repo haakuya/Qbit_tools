@@ -45,4 +45,5 @@ qb迁移跳检
 	绿色版路径 C:\qBittorrent Stable (build 4.1.0.0)\qBittorrent\profile\qBittorrent\data\BT_backup
 	
 ```C:\Users\你的用户名\Desktop\ut2gt.exe  D:\uTorrent\resume.dat  C:\qBittorrent Stable (build 4.1.0.0)\qBittorrent\profile\qBittorrent\data\BT_backup```
+
 	然后按下回车等就OK了，会自动备份一次 resume.dat ，不信任的也可以手动备份。

@@ -47,6 +47,6 @@ qb迁移跳检
 	例：C:\Users\你的用户名\Desktop\ut2gt.exe  D:\uTorrent\resume.dat  C:\qBittorrent Stable (build 4.1.0.0)\qBittorrent\profile\qBittorrent\data\BT_backup
 	然后按下回车等就OK了，会自动备份一次 resume.dat ，不信任的也可以手动备份。
 	
-原帖地址  (Migrate from uTorrent to qBittorrent easily)[https://qbforums.shiki.hu/index.php/topic,3224.0.html		
+原帖地址  (Migrate from uTorrent to qBittorrent easily)[https://qbforums.shiki.hu/index.php/topic,3224.0.html]
 
 ```C:\Users\你的用户名\Desktop\ut2gt.exe  D:\uTorrent\resume.dat  C:\qBittorrent Stable (build 4.1.0.0)\qBittorrent\profile\qBittorrent\data\BT_backup```
